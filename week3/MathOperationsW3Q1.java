@@ -15,7 +15,7 @@ public class MathOperationsW3Q1
         Scanner sc= new Scanner(System.in);
         System.out.println("Input the First Number");
         int FNum= sc.nextInt();
-        System.out.println("Input the Seccond Number");
+        System.out.println("Input the Second Number");
         int SNum= sc.nextInt();
         int Sum= FNum+SNum;
         int Diff= FNum-SNum;
@@ -23,7 +23,7 @@ public class MathOperationsW3Q1
         int Divide= FNum/SNum;
         int Remain= FNum%SNum;
         System.out.println("The Sum is: "+Sum+"\nThe Difference is: "+Diff+"\nThe Multipication is: "+Divide+"\nThe Divide is: "+Divide+"\nThe Remainder is: "+Remain);
-        
+                
     }
     
 }

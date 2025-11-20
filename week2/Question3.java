@@ -1,4 +1,4 @@
-
+package week2;
 /**
  * Write a description of class Question3 here.
  *
